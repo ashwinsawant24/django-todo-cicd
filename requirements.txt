@@ -1,0 +1,4 @@
+Django==3.2
+# other dependencies like:
+# psycopg2
+# djangorestframework
